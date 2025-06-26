@@ -1,14 +1,17 @@
 /* Load Urbanist and Comfortaa font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 
-@import 'tailwindcss';
+@import "tailwindcss";
 
 @theme {
-  --color-background: #fff;
-  --color-foreground: #111;
-  --color-primary: #2a7fff;
+  --color-background: #0e0e0e;
+  --color-foreground: #bdbcc4;
+  --color-primary: #15141b;
+  --color-secondary: #927dfc;
+  --color-pink: #ff4d6d;
+  --color-violet: #927dfc;
   --color-primary-foreground: #fff;
-  --color-border: #eee;
+  --color-border: #1c1b22;
 
   --font-raleway: Raleway, sans-serif;
 }
