@@ -84,3 +84,5 @@ RASENGAN_SMAD_PRIVATE_KEY=XXXXXX
 > *"Créer avec puissance. Déployer avec fluidité."*
 > Rasengan.js est un framework moderne inspiré de l’univers de Naruto. Il mise sur la rapidité, la simplicité et la flexibilité pour les développeurs React.
 
+Visitez le site officiel de Rasengan.js : [https://rasengan.dev](https://rasengan.dev)
+
