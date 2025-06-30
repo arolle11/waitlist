@@ -157,7 +157,7 @@ const Home: PageComponent = () => {
           Powered by
           <Link
             to="https://www.rasengan.dev/"
-            className="text-foreground text-medium"
+            className="text-foreground text-medium ml-1"
           >
             RasenganJs
           </Link>
